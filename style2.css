@@ -1,0 +1,39 @@
+/*Magbulogtong*/
+html{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: grey;
+}
+
+
+/*Mercado*/
+body{
+  background-color: white;
+  border-radius: 8px;
+  padding: 25px;
+}
+
+/*Nanalabe*/
+h2{
+  text-align: center;
+  font-size: 40px;
+}
+
+/*Omawas*/
+table{
+  font-size: 25px;
+  padding: 30px;
+  border-collapse: collapse;
+}
+
+/*Parrino*/
+th{
+  background-color: yellowgreen;
+}
+
+/*Pantonial*/
+.drop{
+  color: red;
+}
